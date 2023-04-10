@@ -885,15 +885,6 @@ def randomClan():
 
     return clan
 
-    # notes
-
-    """
-
-
-
-    """
-
-
 # cat generating function
 
 
@@ -1235,7 +1226,6 @@ def randomCat(fixedGender, isKit):
         "white shaded",
         "golden shaded",
         "grey shaded",
-        "",
         "black and white vitilago",
         "white",
         "white, red and brown calico",
